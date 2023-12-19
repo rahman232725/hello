@@ -7,3 +7,10 @@ b=20;
 c=a+b;
 printf("sum is ",c);
 }
+lllppp
+ppplll
+lllppp
+ppplll
+lllppp
+ppplll
+lllppp
